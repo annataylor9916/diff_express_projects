@@ -3,7 +3,7 @@
 
 1. Differential gene expression analysis of Venetoclax-resistant mantle cell lymphoma cell line transcriptome 
 
-The data analysed as part of this exercised comes from Zhao et al. 2019 (10.1016/j.ccell.2019.04.005); the raw data can be downloaded here:   https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE116132. This workflow does not include QC, trimming, or quantification steps, but fastQC, TrimGalore, and salmon were used for this respectively.
+The data analysed as part of this exercised comes from Zhao et al. 2019 (10.1016/j.ccell.2019.04.005); the raw data can be downloaded here:   https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE116132. This workflow does not include QC, trimming, or quantification steps, but fastQC, TrimGalore, and salmon were used for this respectively. I have included the resulting .sh files from my analysis in the "Files" folder, these are ready for downstream analysis.
 
 2. Differential gene expression, gene ontology and splicing analysis of blood transcriptome bulk RNA-seq data to uncover dysregulation patterns in individual with neurological spectrum disorder
 
