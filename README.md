@@ -1,4 +1,4 @@
-# Differential Gene Expression, Pathway & Splicing Analysis (MSc Projects)
+# RNA-Seq Analysis (MSc Projects)
 
 1. Differential gene expression analysis of Venetoclax-resistant mantle cell lymphoma cell line transcriptome (RNA-Seq)
 
