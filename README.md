@@ -1,4 +1,4 @@
-# RNA-Seq Analysis of Venetoclax-resistant mantle cell lymphoma cell line 
+# Rna-Seq Analysis of Venetoclax-Resistant Mantle Cell Lymphoma Cell Line
 
 - The data analysed as part of this exercise comes from Zhao et al. 2019 (10.1016/j.ccell.2019.04.005); raw data can be downloaded here:   https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE116132.
 - As part of this project, derived/resistant cell line J4 was compared to parental cell line to investigate the mechanisms of Venetoclax resistance
